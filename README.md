@@ -1,7 +1,12 @@
 # Dynamic Lighting Demo for Cocos2D with Normal Maps
 
+Tutorial by Andreas Loew / CodeAndWeb GmbH
+Thanks for collidernyc from Cocos2d Forum for the Swift port
+
 This demo uses the same normal mapped sprite in different dynamic light scenarios.
 The light source can be dragged do light the sprite from different angles.
+
+Read the full tutorial: [Cocos2d Dynamic Lighting Tutorial](https://www.codeandweb.com/blog/2015/03/17/cocos2d-dynamic-lighting-tutorial)
 
 #### Summer scene (directonal light)
 
@@ -51,5 +56,6 @@ The pixels in the normal map represent a direction - the direction in which the 
 
 The normal maps were generated using SpriteIlluminator - our [Normal Map Generator](https://www.codeandweb.com/normal-map-generator).
 
+Read the full tutorial: [Cocos2d Dynamic Lighting Tutorial](https://www.codeandweb.com/blog/2015/03/17/cocos2d-dynamic-lighting-tutorial)
 
 

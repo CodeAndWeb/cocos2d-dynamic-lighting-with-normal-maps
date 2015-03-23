@@ -109,7 +109,7 @@
     // orange light
     // dark blue ambient light
     // animated in update:
-    _lightNode.color = [CCColor colorWithRed:1.0f green:0.5f blue:0.5f];
+    _lightNode.color = [CCColor colorWithRed:1.0f green:0.5f blue:0.2f];
     _lightNode.ambientColor = [CCColor colorWithRed:0.4f green:0.4f blue:0.8f];
     _lightNode.type = CCLightPoint;
     _lightNode.position = _fireEmitter.position = ccp(400,60);
